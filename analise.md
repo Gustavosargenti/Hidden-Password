@@ -24,7 +24,7 @@ O projeto Hidden Password está inserido no domínio dos jogos de lógica basead
 ## Diagrama de Domínio do problema
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0568cf89-e39d-4f87-ac43-a384a5775eb6" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/cb7ee260-6636-4b16-9ac6-3f5f1effd50f" alt="Imagem ilustrativa do projeto" />
 </p>
 
 

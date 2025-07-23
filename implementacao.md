@@ -10,7 +10,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/541b3ae1-9cec-4399-a924-e8622e31368f" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/67ae8b44-4539-462e-8c4e-30761a690079" alt="Imagem ilustrativa do projeto" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67ae8b44-4539-462e-8c4e-30761a690079" alt="Imagem ilustrativa do projeto" />
 </p>
 
 <div align="center">

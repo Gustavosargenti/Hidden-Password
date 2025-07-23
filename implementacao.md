@@ -55,7 +55,7 @@ Esse comportamento ocorre devido ao reposicionamento dos elementos na interface,
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e639954d-6269-4e36-8620-d338cf32f847" alt="Imagem ilustrativa do projeto" />
 </p>
-https://github.com/user-attachments/assets/e639954d-6269-4e36-8620-d338cf32f847
+
 
 
 

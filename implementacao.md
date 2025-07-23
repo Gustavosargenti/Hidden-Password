@@ -5,7 +5,12 @@
  ferramentas e bibliotecas utilizadas
 >
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb7ee260-6636-4b16-9ac6-3f5f1effd50f" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/541b3ae1-9cec-4399-a924-e8622e31368f" alt="Imagem ilustrativa do projeto" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/541b3ae1-9cec-4399-a924-e8622e31368f" alt="Imagem ilustrativa do projeto" />
 </p>
 
 <div align="center">

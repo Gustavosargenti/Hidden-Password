@@ -1,6 +1,6 @@
 # Implementação
 
-Ao rodar o projeto, o jogador é apresentado a uma tela de configuração simples.
+Ao rodar o projeto, é apresentada a uma tela de configuração simples.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/541b3ae1-9cec-4399-a924-e8622e31368f" alt="Imagem ilustrativa do projeto" />
 </p>

@@ -47,7 +47,15 @@ Se o jogador acertar a senha:
   Sair do Jogo, encerrando a aplicação
 
 # Problema
+Durante os testes, foi identificado um problema específico no modo Difícil:
 
+* Quando a senha é embaralhada, o conteúdo do grid se reorganiza de forma diferente, fazendo com que os botões inferiores ( "0", "C" e "ENTER") fiquem parcialmente cortados.
+
+Esse comportamento ocorre devido ao reposicionamento dos elementos na interface, que empurra o grid para baixo além do limite da janela.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e639954d-6269-4e36-8620-d338cf32f847" alt="Imagem ilustrativa do projeto" />
+</p>
+https://github.com/user-attachments/assets/e639954d-6269-4e36-8620-d338cf32f847
 
 
 
